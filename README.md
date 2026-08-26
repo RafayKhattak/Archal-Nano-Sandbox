@@ -6,10 +6,7 @@ This is a proof-of-concept demonstrating the core infrastructure required for de
 
 ## 🎥 Demo
 
-<!-- Drop demo.mp4 into this repo (GitHub: Add file), or drag the video into
-     the README editor and replace the next line with the
-     github.com/user-attachments/assets/... URL GitHub generates. -->
-![Archal Sandbox demo](demo.mp4)
+[Watch the PoC demo (Google Drive)](https://drive.google.com/file/d/1n0llHqOgpOV1Wu5XIrKlusZAUe0tauum/view?usp=sharing)
 
 ## 🏗️ Architecture
 
